@@ -2,9 +2,9 @@ spring:
   # DataSource Config
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url:
+    url: xxx
     username: root
-    password:
+    password: xxx
   # session 失效时间
   session:
     timeout: 86400
